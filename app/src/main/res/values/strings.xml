@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DicodingApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="event_image_desc">Event Image Desc</string>
+    <string name="title_finished">Finished</string>
+    <string name="event_title">Event Title</string>
+    <string name="favorite" />
+</resources>
